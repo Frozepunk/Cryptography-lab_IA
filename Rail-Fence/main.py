@@ -12,5 +12,7 @@ def rail_fence_cipher(text, key):
 text = input("Enter the text: ")
 key = int(input("Enter the key: "))
 
-encrypted = rail_fence_cipher(text, key)
-print("Encrypted text:", encrypted)
+# encrypted = rail_fence_cipher(text, key)
+# print("Encrypted text:", encrypted)
+
+print(rail_fence_cipher(text, key))
