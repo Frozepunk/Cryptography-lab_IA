@@ -54,7 +54,11 @@ c=math.pow(m,e)%n
 de=math.pow(c,d)%n
 print(f"Encrypt{c}")
 print(f"Decrypt {de}")
-
+# inputs
+# p = 3
+# q = 5
+# e = 2
+# m = 4
 ```
 
 ### Rail fence 
